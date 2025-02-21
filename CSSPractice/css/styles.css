@@ -1,0 +1,31 @@
+/* Luke Odom
+ February 20 2025 */
+
+ header {
+    background-color: red;
+ }
+
+ footer{
+    background-color: red;
+ }
+
+ p, ul, li {
+    font-size: 20px;
+}
+
+a:link{
+    color:red
+}
+
+a:visited
+{
+    color:green
+}
+
+a:hover{
+    color:aquamarine
+}
+
+a:active{
+    color:purple
+}
